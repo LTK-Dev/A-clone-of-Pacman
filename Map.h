@@ -9,9 +9,6 @@ class Map {
         static const int MAP_WIDTH = 28;
         static const int MAP_HEIGHT = 31;
         const std::string mapFile = "Map.txt";
-
-       
-
         int tile[MAP_HEIGHT][MAP_WIDTH];
         // Mang 3 chieu i j k luu tru khoang cach ngan nhat di tu i den j voi k la up right down left tu 0 den 3
         // Biến dist được sử dụng để tính toán khoảng cách nhỏ nhất giữa các điểm trên bản đồ
