@@ -80,7 +80,7 @@ Link video demo:
 - Tham khảo khung chương trình và cách tổ chức game từ 1 video làm game Pacman của Youtuber: [HexagonNico](https://www.youtube.com/watch?v=4AatUPAXrj8)  
   [Link tới Video](https://www.youtube.com/watch?v=4AatUPAXrj8)
 - Để xây dựng và phát triển các con Ghost trong game, mình đã tham khảo một video về Ai của game qua Youtube: [Pac-Man Ghost AI Explained](https://www.youtube.com/watch?v=ataGotQ7ir8)
-- Một số BTL và dự án trên mạng lẫn github từ nhiều nguồn [Nhiều nhất là từ nguồn này] (https://github.com/tungddk2/Pacman)
+- Một số BTL và dự án trên mạng lẫn github từ nhiều nguồn [Nhiều nhất là từ nguồn này](https://github.com/tungddk2/Pacman)
 
           
     
