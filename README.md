@@ -1,7 +1,7 @@
 # A-clone-of-Pacman
 Lê Tuấn Kiệt - UET
 
-BTL - Game (INT2215 26): https://github.com/LTK-Dev/A-clone-of-Pacman/tree/main
+BTL - Game (INT2215 26): https://github.com/LTK-Dev/A-clone-of-Pacman
 
 Link video demo: https://youtu.be/uVx3INyaWzc
 
@@ -74,13 +74,13 @@ Link video demo: https://youtu.be/uVx3INyaWzc
     `PINKY_COIN_LIMIT` ,`INKY_COIN_LIMIT`,`CLYDE_COIN_LIMIT` là số `coins` mà `Pacman` phải ăn để các con ma tương ứng thoát khỏi lồng để đi bắt `Pacman`
 5. ### Nguồn tham khảo
 - Các nguồn âm thanh và hình ảnh mình lấy từ trên mạng kết hợp với tự tạo bằng photoshop
-- SDL 2.0 từ [lazyfoo](https://lazyfoo.net/tutorials/SDL/)
+- SDL 2.0 từ [Lazyfoo](https://lazyfoo.net/tutorials/SDL/)
 - Tham khảo về 1 chương trình SDL2 từ 1 series lập trình Game RPG với SDL2 của Youtuber: [Let's Make Games](https://www.youtube.com/channel/UCAM9ZPgEIdeHAsmG50wqL1g)  
   [Link tới danh sách phát](https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx)
 - Tham khảo khung chương trình và cách tổ chức game từ 1 video làm game Pacman của Youtuber: [HexagonNico](https://www.youtube.com/watch?v=4AatUPAXrj8)  
   [Link tới Video](https://www.youtube.com/watch?v=4AatUPAXrj8)
 - Để xây dựng và phát triển các con Ghost trong game, mình đã tham khảo một video về Ai của game qua Youtube: [Pac-Man Ghost AI Explained](https://www.youtube.com/watch?v=ataGotQ7ir8)
-- Một số BTL và dự án trên mạng lẫn github từ nhiều nguồn [Nhiều nhất là từ nguồn này](https://github.com/tungddk2/Pacman)
+- Một số BTL và dự án trên mạng lẫn github từ nhiều nguồn [nhiều nhất là từ nguồn này](https://github.com/tungddk2/Pacman)
 
           
     
