@@ -1,7 +1,7 @@
 # A-clone-of-Pacman
 Lê Tuấn Kiệt - UET
 
-BTL - Game (INT2215 26)
+BTL - Game (INT2215 26): https://github.com/LTK-Dev/A-clone-of-Pacman/tree/main
 
 Link video demo:
 
